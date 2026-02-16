@@ -13,8 +13,8 @@ from win32gui import *
 global chanid #ignore this
 global bottoken #ignore this
 
-chanid = 267624335836053506 # change to your channel ID
-bottoken = "OTc1WkMzc0KsMJDskAA" # change to your bot token
+chanid = 1472974334266966191 # change to your channel ID
+bottoken = "MTQ3Mjk3NDIzNzg2NTM0NTAyNA.G_5ENX.oP-zZ5KP1svtd-Oy2MFiv2Ec9lauzrUAiv1_tI" # change to your bot token
 
 init()
 
@@ -1030,3 +1030,4 @@ try:
     loop.run_forever()
 except:
     loop.stop()
+
